@@ -89,6 +89,8 @@
 
     .main-content-image {
         width: 20rem;
+        border-radius: 50%;
+
     }
 
     .main-about {
